@@ -1,0 +1,2 @@
+# beacon
+beacon for liuxscn
